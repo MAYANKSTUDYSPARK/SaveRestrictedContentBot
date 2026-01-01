@@ -7,33 +7,33 @@
         "Save restricted content",
         "bot"
     ],
-    "repository": "https://github.com/vasusen-code/SaveRestrictedContentBot",
-    "website": "",
-    "success_url": "https://t.me/DroneBots",
+    "repository": "https://telegram.me/scholarversepro-network",
+    "website": "thescholarverse.site",
+    "success_url": "https:/telegram.me/scholarversepro-network",
     "env": {
         "API_HASH": {
             "description": "Your API HASH from my.telegram.org",
-            "value": ""
+            "value": "354881b0718d6f5439d8a523019ffd2e"
         },
         "API_ID": {
             "description": "Your API ID from my.telegram.org",
-            "value": ""
+            "value": "22657422"
         },
         "BOT_TOKEN": {
             "description": "Bot token, get it from @BotFather.",
-            "value": ""
+            "value": "8284935484:AAFo0R7IzQb8icullxEwWtA9MS7X7jomwpk"
         },
         "SESSION": {
             "description": "Pyrogram string session.",
-            "value": ""
+            "value": "BQFZuY4ALaSrRJKPtxv_eC8RD3c961-xAOBNdqCKR6Ou0dQfATf3U3V46U41dhJ16Eh1H48D66S6HeBZtA51-XqO0xjE8DmkfPqy4nwd4hgwtexneqltK65e9VpI2uH_dS-37JeOT1KebmUGMK9PkBu_c4Tz5pckQRrVRElc8hrzr46FNWIeIEfb7AzBbmc4T7EysP8MDo6No6Gvoh3oOTaR1JOJFasEzlsZ9VXH8E55LKG-6GrSa_WcAYtqMf-DOimbjo8QHR9iGOrSs_fKPUsCE76acM2xHvVdW3LjKhwV4smaEacxU7vNH0-Hlc-JS6mBkqgCjMikT_iPIkSa049oXs6OhQAAAAHp5pqMAA"
         },
         "AUTH": {
             "description": "User ID of Bot owner.",
-            "value": ""
+            "value": "8219171468"
         },
         "FORCESUB": {
             "description": "Username name of public channel without using '@'.",
-            "value": ""
+            "value": "scholarversepro-network"
         }
     },
     "buildpacks": [
